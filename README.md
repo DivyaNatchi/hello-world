@@ -1,2 +1,3 @@
 # hello-world
-practice account for learning Git
+Practice account for learning Git.
+I have added this line to learn fetch, merge and pull command.
